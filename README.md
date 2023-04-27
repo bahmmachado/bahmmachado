@@ -1,5 +1,3 @@
-## 👋 Olá, tudo bem? Me chamo Bárbara Machado!
-
 ![Header](./header-bahmmachado.png)
 
 #### Skills
