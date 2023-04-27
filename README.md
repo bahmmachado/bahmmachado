@@ -1,6 +1,8 @@
 ## 👋 Olá, tudo bem? Me chamo Bárbara Machado!
 
 
+#### Skills
+
 <div align="left">
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin" /></code>
@@ -11,7 +13,7 @@
 </div>
 
 ##
-### Minhas Redes Sociais:
+#### Social media
 
 <div>
   <a href="https://instagram.com/bahmmachado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
