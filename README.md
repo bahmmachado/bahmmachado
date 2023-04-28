@@ -1,17 +1,18 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 
 ![Header](./header-linkedin-bahmmachado.png)
+
 <div align="center">
+<a href="mailto:barbaramm006@gmail.com" target="_blank">
+  <img align="center" src="./email-icon.png" width="55px" height="55px">
+	
 <a href="https://github.com/bahmmachado" target="_blank">
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
+	
 <a href="https://www.linkedin.com/in/bahmmachado/" target="_blank">
   <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-	</a>
-<a href="mailto:barbaramm006@gmail.com" target="_blank">
-  <img align="center" src="./email-icon.png" width="55px" height="55px">
-	</a>
-	
+	</a>	
 </div>
 
 #### Skills
