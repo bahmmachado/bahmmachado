@@ -9,7 +9,7 @@
   <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 	</a>
 <a href="mailto:barbaramm006@gmail.com" target="_blank">
-  <img align="center" src="./email-icon.png" width="48px" height="48px">
+  <img align="center" src="./email-icon.png" width="55px" height="55px">
 	</a>
 	
 </div>
@@ -23,13 +23,4 @@
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart" /></code>
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter" /></code>
 	<code><img height="45" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>
-</div>
-
-##
-#### Social media
-
-<div>
-  <a href="https://instagram.com/bahmmachado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:barbaramm006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bahmmachado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
