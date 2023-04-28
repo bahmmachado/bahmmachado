@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center"> 👋 Seja bem vinda e bem vindo! ☺️ </h1>
 
 ![Header](./header-linkedin-bahmmachado.png)
 
