@@ -11,7 +11,7 @@
 </a>
 	
 <a href="https://www.linkedin.com/in/bahmmachado/" target="_blank">
-  <img align="center" src="./linkedin-icon.png" width="48px" height="48px">
+  <img align="center" src="./linkedin-icon.png" width="55px" height="55px">
 	</a>	
 </div>
 
