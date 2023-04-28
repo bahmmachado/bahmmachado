@@ -7,11 +7,11 @@
   <img align="center" src="./email-icon.png" width="55px" height="55px">
 	
 <a href="https://github.com/bahmmachado" target="_blank">
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="center" src="./github-icon.png" width="55px" height="55px">
 </a>
 	
 <a href="https://www.linkedin.com/in/bahmmachado/" target="_blank">
-  <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img align="center" src="./linkedin-icon.png" width="48px" height="48px">
 	</a>	
 </div>
 
