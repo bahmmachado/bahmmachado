@@ -1,4 +1,6 @@
-![Header](./header-bahmmachado2.png)
+<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+
+![Header](./header-linkedin-bahmmachado.png)
 
 #### Skills
 
