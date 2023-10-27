@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Seja bem vinda e bem vindo! ☺️ </h1>
+<h1 align="center"> 👋 Welcome ☺️ </h1>
 
-![Header](./header-linkedin-bahmmachado.png)
+![Header](./github_infos.png)
 
 <div align="center">
 <a href="mailto:barbaramm006@gmail.com" target="_blank">
